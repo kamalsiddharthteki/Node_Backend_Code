@@ -66,7 +66,8 @@ const server = http.createServer(async (req, res) => {
         res.writeHead(200, { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' });
         res.end(JSON.stringify(responseData[0]))
 
-    } else {
+    } 
+    else {
         res.setHeader("Access-Control-Allow-Origin", "*");
         res.writeHead(404, { 'Content-Type': 'text/html' });
         res.end(" <h1> 404 Error Not Found </h1>")
