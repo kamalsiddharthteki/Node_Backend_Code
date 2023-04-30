@@ -1,0 +1,61 @@
+{"animes": [{
+  "id":1,
+  "name":"One Piece",
+  "image":"https://i.pinimg.com/originals/8e/cf/0a/8ecf0a5eafdab9c40ff9bb843dbb387c.jpg",
+  "studios": "Toei Animation",
+  "airedon": 2004,
+  "episodes": 1056,
+  "rating": "8.9/10",
+  "description": "Follows the adventures of Monkey D. Luffy and his pirate crew in order to find the greatest treasure ever left by the legendary Pirate, Gold Roger. The famous mystery treasure named one piece"
+},
+{
+  "id":2,
+  "name":"Naruto",
+  "image":"https://i.ebayimg.com/images/g/VpYAAOSwFTFhgqtb/s-l500.jpg",
+  "studios": "Pierrot Co",
+  "airedon": 2002,
+  "episodes": 720,
+  "rating": "8.4/10",
+  "description": "Naruto is a Japanese manga series written by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage"
+},
+{
+  "id":3,
+  "name":"Attack on Titan",
+  "image":"https://m.media-amazon.com/images/I/51K4w8DY5cL._AC_.jpg",
+  "studios": "Mappa",
+  "airedon": 2013,
+  "episodes": 88,
+  "rating": "9.0/10",
+  "description": "It is set in a world where humanity is forced to live in cities surrounded by three enormous walls that protect them from gigantic man-eating humanoids referred to as Titans"
+},
+{
+  "id":4,
+  "name":"Demon Slayer",
+  "image":"https://m.media-amazon.com/images/I/81oFNYNUavL.jpg",
+  "studios": "Ufotable",
+  "airedon": 2019,
+  "episodes": 45,
+  "rating": "8.7/10",
+  "description": "It is a Japanese manga series about Tanjiro Kamado, a young boy who becomes a demon slayer after his family is slaughtered and his younger sister Nezuko is turned into a demon"
+},
+{
+  "id":5,
+  "name":"Tokyo Revengers",
+  "image":"https://m.media-amazon.com/images/M/MV5BODk1NWI5YjMtOGQ4Ni00MWQ0LWI5YTUtMzc1ZmU2MGQzM2RjXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+  "studios": "Warner Bros",
+  "airedon": 2021,
+  "episodes": 37,
+  "rating": "8.0/10",
+  "description": "Hanagaki Takemichi lives an unsatisfying life right up until his death. Waking up 12 years in the past, he reckons with the eventual fate of his friends and tries to prevent an unfortunate future"
+},
+{
+  "id":6,
+  "name":"Jujutsu Kaisen",
+  "image":"https://m.media-amazon.com/images/I/818DUzqnwES._AC_SL1500_.jpg",
+  "studios": "Mappa",
+  "airedon": 2020,
+  "episodes": 24  ,
+  "rating": "8.5/10",
+  "description": "Jujutsu Kaisen is the story of Yuji Itadori, an easygoing high school student who joins the occult club at school. When they accidentally summon grotesque creatures by messing with a cursed object"
+}
+]}
