@@ -86,4 +86,5 @@ async function getAllDataFromMongo(client) { // Fetch data
         console.log(`No results`);
     }
 }
-server.listen(6969, () => console.log(" Great, Server is runnning successfully"));
+const PORT= process.env.PORT || 6968;
+server.listen(PORT,()=> console.log(`Great our server is running on port ${PORT} `));
